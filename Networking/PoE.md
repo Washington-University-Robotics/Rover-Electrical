@@ -2,6 +2,11 @@
 
 This document is dedicated to recording the relevant information for PoE that needs to be used by the WashU robotics club Rover Electrical Team. Refer to the sections below to learn about how PoE is used on the Rover.
 
+### Sections
+[Why PoE](#why-poe)
+[PoE Standard](#what-poe-standard-is-being-used)
+
+
 ## Why PoE?
 
 There is one main reason why we chose to include PoE on the rover: a large portion of networking equipment can be powered using PoE. This allows us to run a single cable to each networking-enabled device, rather than a power cable and ethernet cable. This reduces clutter in our device.
