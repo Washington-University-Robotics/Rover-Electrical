@@ -18,5 +18,3 @@ We are currently using a custom PoE setup because Ubiquiti field networking equi
 ![Standard RJ45 ethernet jack](./ethernet.jpg)
 
 RJ45 is the standard for the jack size, and T-568B is for the way the wires are organized. In our case, the positive pairs are Blue, Blue/White, and the negative pairs are Brown/White, Brown.
-
-<span style="color:green">Green text?</span>
