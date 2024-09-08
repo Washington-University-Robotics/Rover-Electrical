@@ -2,7 +2,7 @@
 
 This week the main focus was getting a plan hatched and trying to decide on hardware. The team got a rough idea of the plan and scope of what we want to do with the power system shown in the whiteboard picture below.![image1](./whiteboard.jpg)
 
-This overall plan was agreed upon by the end of the meeting. Ethan had spent a lot of time drawing the diagram and adding sensors where we would want them. (side note I noticed that all the voltmeters would read 0 since they are essentially connected across a theoretical zero ohm device). He then began the documentation of the networking setup we used last semester and planned on its continued use. 
+This overall plan was agreed upon by the end of the meeting. Ethan had spent a lot of time drawing the diagram and adding sensors where we would want them. (side note: the voltmeters are referenced to ground). He then began the documentation of the networking setup we used last semester and planned on its continued use. 
 
 Issac worked with the Arm Team to help in the decision-making process for the motors and servos they wanted to use. The Arm guy is at it again!
 
