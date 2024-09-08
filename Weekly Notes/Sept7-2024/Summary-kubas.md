@@ -10,4 +10,4 @@ Alvin with his team worked on getting [Altium](https://www.altium.com/) installe
 
 I worked to communicate between team leads to establish a basis for what the proposed electrical components would be. The chassis team wanted to go with hub motors instead of the conventional DC motors we had used previously. Nick found [Brushless DC Hub Motors](https://odriverobotics.com/shop/botwheels) for our use which fit our power draw limit. I asked the Science team to get a list of probable components they might use and asked Issac, Sophie, and the Arm team to look into the possibility of using 48V (preferred) or 12V motors if at all possible. 
 
-Great Start of the semester progress and hope this productivity continues!
+Great start to the semester with some good progress being made. I hope this productivity continues!
