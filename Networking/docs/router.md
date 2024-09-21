@@ -11,15 +11,15 @@ We set the admin password to `password`, because it is easy to remember and we d
 __Admin Password__
 - Password: password
 
-[Insert picture of router admin page here]
+![Picture of router admin page](./router/admin_login.png)
 
-In order to make things more default, we change the default subnet the router resides on to `192.168.1.x`. To do this, visit the admin page, and on the left, scroll through the setting until you see the `Advanced Settings` dropdown. Under the `Advanced Settings` dropdown, select [cant remember the setting, will add when I'm back in the workshop].
+In order to make things more default, we change the default subnet the router resides on to `192.168.1.x`. To do this, visit the admin page, and on the left, scroll through the setting until you see the `Advanced Settings` dropdown. Under the `Advanced Settings` dropdown, select `LAN IP`.
 
-[Image of the dropdown and LAN IP setting option]
+![Image of the dropdown and LAN IP setting option](./router/admin_landing.png)
 
-[Image of the LAN IP settings menu]
+![Image of the LAN IP settings menu](./router/lan_settings.png)
 
-Once you are in the [LAN IP?] settings, you can change the default subnet `192.168.8.x` to `192.168.1.x`. This helps with setting up the Ubiquiti Rocket M2s that we are currently using for radio connection between the Rover/Drone/Base Station, which will broadcast their admin page on `192.168.1.20` by default.
+Once you are in the `LAN IP` settings, you can change the default IP `192.168.8.1` to `192.168.1.1`. This helps with setting up the Ubiquiti Rocket M2s that we are currently using for radio connection between the Rover/Drone/Base Station, which will broadcast their admin page on `192.168.1.20` by default.
 
 ### SSID settings
 
