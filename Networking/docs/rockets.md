@@ -2,6 +2,9 @@
 
 To connect wirelessly across a large distance (1-2km) we are using Ubiquiti Rocket M2s for radios, along with Ubiquiti antennas. The datasheet for the Rocket M2s is included in this directory. They use 2.4 GHz frequency for comms, and have a variable bandwidth of 20-40 MHz. The competition rules state that we cannot have a bandwidth of more than 22 MHz at this frequency, so we will be limiting it to 20 MHz in the Rocket M2 settings.
 
+### Edit
+The new 2025 URC rules specify that there are now no limitations on 2.4 GHz bandwidth, channels, etc. This means that we can just set the rockets to their default (and generally more performant) 20-40 MHz settings.
+
 ## Setup
 
 By default, the Rocket M2s broadcast an admin interface on `192.168.1.20`. The default username and password for this admin interface is:
